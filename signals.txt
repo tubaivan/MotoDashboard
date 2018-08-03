@@ -1,0 +1,15 @@
+неутрал - 0в, +4.5
+оил - nc if oil
+fan 12v
+fuel - 2v
+water sense 4.5
+water gnd - gnd
+
+L/R Turn thru lamp to ground
+
+RPM = measured signal f / 2 (0 - 12 V)
+
+Speed
+125 hz - 8 kmh
+171 hz - 11 kmh
+?
